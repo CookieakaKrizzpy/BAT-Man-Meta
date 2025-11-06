@@ -9,10 +9,10 @@ Dieses Repository dient als Hauptrepository für das BAT-Man Projekt und integri
 - **URL:** https://github.com/CookieakaKrizzpy/BAT-Man-AT.git
 - **Status:** ✅ Hinzugefügt
 
-### Gruppe 2: [Dashboard]
-- **Repository:** `[Zu ergänzen]`
-- **URL:** `[Zu ergänzen]`
-- **Status:** ⏳ Ausstehend
+### Gruppe 2: Dashboard (User Interface Team)
+- **Repository:** `BAT-Man-Dashboard`
+- **URL:** https://github.com/FlorianWeyrauch/Dashboard-BAT-Man.git
+- **Status:** ✅ Hinzugefügt
 
 ### Gruppe 3: SQL (Database Team)
 - **Repository:** `BAT-Man-SQL`
@@ -53,7 +53,7 @@ BAT-Man-Meta/
 ├── README.md
 ├── .gitmodules
 ├── BAT-Man-AT/          # Gruppe 1 (Authentication)
-├── BAT-Man-SQL/         # Gruppe 3 (Database)  
-├── BAT-Man-GUI/         # Gruppe 4 (GUI)
-└── [Gruppe2-Name]/      # Gruppe 2 (Dashboard)
+├── BAT-Man-Dashboard/   # Gruppe 2 (Dashboard)
+├── BAT-Man-SQL/         # Gruppe 3 (Database)
+└── BAT-Man-GUI/         # Gruppe 4 (GUI)
 ```
