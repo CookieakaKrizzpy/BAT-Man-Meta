@@ -7,3 +7,6 @@
 [submodule "BAT-Man-GUI"]
 	path = BAT-Man-GUI
 	url = https://github.com/cAumaier/BAT-Man-GUI.git
+[submodule "BAT-Man-Dashboard"]
+	path = BAT-Man-Dashboard
+	url = https://github.com/FlorianWeyrauch/Dashboard-BAT-Man.git
