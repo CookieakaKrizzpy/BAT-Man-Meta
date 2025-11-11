@@ -46,7 +46,7 @@ git submodule add [URL] [Verzeichnisname]
 ```bash
 git submodule update --remote
 ```
-
+ 
 ## Struktur
 ```
 BAT-Man-Meta/
