@@ -21,7 +21,7 @@ Dieses Repository dient als Hauptrepository für das BAT-Man Projekt und integri
 
 ### Gruppe 4: GUI (User Interface Team)
 - **Repository:** `BAT-Man-GUI`
-- **URL:** https://github.com/cAumaier/Bat-Man-GUI.git
+- **URL:** https://github.com/AndreasStraub/BAT_Man
 - **Status:** ✅ Aktualisiert
 
 ## Verwendung
