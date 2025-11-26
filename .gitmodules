@@ -4,9 +4,9 @@
 [submodule "BAT-Man-SQL"]
 	path = BAT-Man-SQL
 	url = https://github.com/F1shy3/BAT-Man-SQL.git
-[submodule "BAT-Man-GUI"]
-	path = BAT-Man-GUI
-	url = https://github.com/cAumaier/Bat-Man-GUI.git
 [submodule "BAT-Man-Dashboard"]
 	path = BAT-Man-Dashboard
 	url = https://github.com/FlorianWeyrauch/Dashboard-BAT-Man.git
+[submodule "BAT-Man-GUI"]
+	path = BAT-Man-GUI
+	url = https://github.com/AndreasStraub/BAT_Man
