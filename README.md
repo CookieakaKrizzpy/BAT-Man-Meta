@@ -4,22 +4,22 @@ Dieses Repository dient als Hauptrepository für das BAT-Man Projekt und integri
 
 ## Gruppen-Repositories
 
-### Gruppe 1: AT (authentication)
+### Gruppe AT (authentication)
 - **Repository:** `BAT-Man-AT`
 - **URL:** https://github.com/CookieakaKrizzpy/BAT-Man-AT.git
 - **Status:** ✅ Hinzugefügt
 
-### Gruppe 2: Dashboard (User Interface Team)
+### Gruppe Dashboard (User Interface Team)
 - **Repository:** `BAT-Man-Dashboard`
 - **URL:** https://github.com/FlorianWeyrauch/Dashboard-BAT-Man.git
 - **Status:** ✅ Hinzugefügt
 
-### Gruppe 3: SQL (Database Team)
+### Gruppe SQL (Database Team)
 - **Repository:** `BAT-Man-SQL`
 - **URL:** https://github.com/F1shy3/BAT-Man-SQL.git
 - **Status:** ✅ Hinzugefügt
 
-### Gruppe 4: GUI (User Interface Team)
+### Gruppe GUI (User Interface Team)
 - **Repository:** `BAT-Man-GUI`
 - **URL:** https://github.com/AndreasStraub/BAT_Man
 - **Status:** ✅ Aktualisiert
