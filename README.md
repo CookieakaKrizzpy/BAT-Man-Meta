@@ -14,11 +14,6 @@ Dieses Repository dient als Hauptrepository für das BAT-Man Projekt und integri
 - **URL:** https://github.com/FlorianWeyrauch/Dashboard-BAT-Man.git
 - **Status:** ✅ Hinzugefügt
 
-### Gruppe SQL (Database Team)
-- **Repository:** `BAT-Man-SQL`
-- **URL:** https://github.com/F1shy3/BAT-Man-SQL.git
-- **Status:** ✅ Hinzugefügt
-
 ### Gruppe GUI (User Interface Team)
 - **Repository:** `BAT-Man-GUI`
 - **URL:** https://github.com/AndreasStraub/BAT_Man
@@ -52,8 +47,7 @@ git submodule update --remote
 BAT-Man-Meta/
 ├── README.md
 ├── .gitmodules
-├── BAT-Man-AT/          # Gruppe 1 (Authentication)
-├── BAT-Man-Dashboard/   # Gruppe 2 (Dashboard)
-├── BAT-Man-SQL/         # Gruppe 3 (Database)
-└── BAT-Man-GUI/         # Gruppe 4 (GUI)
+├── BAT-Man-AT/          # Gruppe (Authentication)
+├── BAT-Man-Dashboard/   # Gruppe (Dashboard)
+└── BAT-Man-GUI/         # Gruppe (GUI)
 ```
